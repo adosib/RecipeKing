@@ -2,8 +2,6 @@ UPDATES SINCE DEMO 1:
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recipe.html (provides a new page where the recipe is linked, ingredients are listed, and a picture is shown)  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;home.html (provides the home page for RecipeKing)  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db.conf (the configuration used for our database)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King Demo Brochure.pdf (updated with new and current pictures)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King - Report 3.pdf (encompasses Reports 1 and 2 with some other new additions)
 
 Files included and descriptions:  
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Code:  
@@ -16,10 +14,6 @@ Files included and descriptions:
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recipeSearchController.js (provides Javascript functionality and polish such as the loading circle and sorting ability)  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;style.css (the style sheets that make the site look nice)  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;about.html (a document that adds a description in the "about" section on the website)  
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documents:  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King Demo Brochure.pdf (the info brochure we handed out during the live demo)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King Demo Slides.pptx (the PowerPoint slides we used during the demo)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King - Report 3.pdf
 
 RecipeKing is hosted for free at http://recipeking.epizy.com/  
 
