@@ -16,12 +16,7 @@ html,body {
         background-attachment: scroll;
     }
 }
-#searchFilters {
-    margin-top: 10px;
-}
-#message {
-    margin-top: 20px;
-}
+
 section {
     padding-bottom: 50px;
 }
