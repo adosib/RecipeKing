@@ -9,7 +9,7 @@ $request = json_decode($postdata); //decode the input
 $ingredients = $request->ingredients; //store the user-specified ingredients
 $health = $request->health;  //store any specified health constraints
 $dietLabel = $request->dietLabel;  //store any user-specified diet label constraints
-$query = implode(",",$ingredients);  // converts the array into a string
+$query = implode(",",[fish, chips]);  // converts the array into a string
 $health = implode(",", $health); // converts the array into a string
 $dietLabel = implode(",", $dietLabel); // converts the array into a string
 

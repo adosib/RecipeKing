@@ -1,0 +1,19 @@
+Need to test the following:
+CallAPI:
+    Expect string
+    Return string of JSON
+addIngredient:
+    Expect string
+    Return string
+selectedOrder
+    Expect string
+    Return array
+removeIngredient
+    Expect int
+    Return array
+recipeSearch
+    Expect void
+    Return JSON
+goToRecipe
+    Expect string
+    Return void
