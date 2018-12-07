@@ -6,5 +6,5 @@ Files included and descriptions:
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documents:  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King Demo Brochure.pdf (the info brochure we handed out during the live demo)  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King Demo Slides.pptx (the PowerPoint slides we used during the demo)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King - Report 3.pdf
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King - Report 3.pdf (encompasses Reports 1 and 2 with some other new additions)
 
