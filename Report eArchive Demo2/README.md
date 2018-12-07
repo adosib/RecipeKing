@@ -19,9 +19,7 @@ Files included and descriptions:
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documents:  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King Demo Brochure.pdf (the info brochure we handed out during the live demo)  
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King Demo Slides.pptx (the PowerPoint slides we used during the demo)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Report 1.pdf (the report we turned in first)  
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Report 2.pdf (the report we turned in second)  
-
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recipe King - Report 3.pdf
 RecipeKing is hosted for free at http://recipeking.epizy.com/  
 
 To run the code, all the code documents need to be hosted on a server for the php to work. This is why we have chosen to use Infinity Free hosting. Simply upload the code and access the applicable URL to run it.  
